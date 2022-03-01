@@ -5,3 +5,6 @@ Design a state machine:
   1. Define a finite number of states.
   2. Lay down the transitions between states what are the business rules what we want to enforce.
   3. Select the initial state. 
+When to use state machine:
+  1. When states are not binary.
+  2. When you have to account for future states.
